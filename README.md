@@ -1,13 +1,10 @@
-## Running React on Repl.it
+## WaterLevel FrontEnd
+1. Make a professional-looking page about the water levels in California's reservoirs using a public data API.
+2. Create components/widgets: a chart and a month picker
+3. Do an API call to get reservoir data from the California Data Exchange Center
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+## Result
+<img src = https://ecs-162-spring-2022.profamenta.repl.co/react/WaterLevelDesktop.png alt="WaterLevel" width="700" height="auto">
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+## Contributors: 
+Elizabeth Hernandez Galvan and Nishtha Ahir
